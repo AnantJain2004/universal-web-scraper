@@ -1,0 +1,9 @@
+streamlit
+selenium
+beautifulsoup4
+html2text
+pandas
+pydantic
+tiktoken
+streamlit-tags
+google-generativeai
