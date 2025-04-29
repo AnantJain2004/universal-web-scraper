@@ -33,7 +33,7 @@ universal-web-scraper/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/universal-web-scraper.git
+git clone https://github.com/AnantJain2004/universal-web-scraper.git
 cd universal-web-scraper
 ```
 
